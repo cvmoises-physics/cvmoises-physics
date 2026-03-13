@@ -7,6 +7,3 @@ I am a Junior Applied Physics undergrad from the Philippines. I am a student fro
 Doing physics was actually just a pastime to the point that things get intriguing and so absurd that I started to keep chasing the pleasure of understanding them. It is mostly with the awe on the limits of human's capability of articulating natural phenomena and that the precision of these articulations allowed us to construct human civilization of today. Getting into physics was pure passion, with humility to its ability in giving us profound understanding of the universe and disover its secrets.
 
 ---
-
-### 📫 Connect with Me
-- **Email:** [cvmoises@up.edu.ph](mailto:cvmoises@up.edu.ph)
