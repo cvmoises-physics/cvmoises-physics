@@ -6,6 +6,6 @@ I am a Junior Applied Physics undergrad from the Philippines. I am a student fro
 
 Doing physics was actually just a pastime to the point that things get intriguing and so absurd that I started to keep chasing the pleasure of understanding them. It is mostly with the awe on the limits of human's capability of articulating natural phenomena and that the precision of these articulations allowed us to construct human civilization of today. Getting into physics was pure passion, with humility to its ability in giving us profound understanding of the universe and disover its secrets.
 
-I am planning to store some of my works here, including computanional and numerical projects written in the university. Most are written in Fortran 95 and Python. I might also consider creating a repo for my current research ones certain milestones are achieved.
+I am planning to store some of my works here, including computational and numerical projects written in the university while tracking progress. Most are written in Fortran 95 and Python. I might also consider creating a repo for my current research once certain milestones are achieved.
 
 ---
