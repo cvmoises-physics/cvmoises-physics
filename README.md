@@ -8,4 +8,6 @@ Doing physics was actually just a pastime to the point that things get intriguin
 
 I am planning to store some of my works here, including computational and numerical projects written in the university while tracking progress. Most are written in Fortran 95 and Python. I might also consider creating a repo for my current research once certain milestones are achieved.
 
+Thank you for visiting!
+
 ---
